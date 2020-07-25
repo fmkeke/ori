@@ -30,7 +30,7 @@ git checkout -- file 修改的文件
 
 已经加到 stage
 
-git reset --hard file 撤回到 工作区 
+git reset HEAD file 撤回到 工作区 
 
 ### 删除文件
 
