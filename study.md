@@ -70,3 +70,12 @@ git merge --no-ff -m "merge" dev 合并
 
    git stash
 
+远端分支
+
+git siwtch -c dev c
+
+
+
+```
+git checkout -b dev origin/dev
+```
