@@ -13,3 +13,6 @@ git remote add origin
  git push -u origin master
 
 add dev 到dev
+
+git push origin HEAD --force 强行推送到远端
+
